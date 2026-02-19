@@ -1,5 +1,5 @@
 # inirushanth
-# Hi, I'm nirushanth   
+# Hi, I'm Nirushanth   
 **CS × EE × AI Learner** 
 
 I’m a Physical Science student building a strong foundation in  
@@ -43,5 +43,4 @@ at the intersection of **AI, software engineering, and real-world infrastructure
 
 ### Contact
 Feel free to reach out for collaboration or learning:  
-**https://www.linkedin.com/in/niru-shanth-a819873b1/**
-**i.nirushanth@gmail.com**
+**www.linkedin.com/in/niru-shanth-a819873b1**
