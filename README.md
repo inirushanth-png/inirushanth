@@ -4,11 +4,8 @@
 
 ---
 
-My interests span intelligent systems, scalable automation, engineering, and business that solves real problems.
-
----
-
 ### Long-Term Direction
+My interests span intelligent systems, scalable automation, engineering, and business that solves real problems.
 Designing and building **scale intelligent systems**  
 
 ---
