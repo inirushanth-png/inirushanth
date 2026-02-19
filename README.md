@@ -17,6 +17,7 @@ I am focused on building systems that operate reliably at scale, optimize decisi
 - Applied machine learning for economic networks
 
 ---
+
 ### Technical Direction
 - Machine Learning & Statistical Modeling
 - Systems Design & Backend Infrastructure
@@ -25,6 +26,7 @@ I am focused on building systems that operate reliably at scale, optimize decisi
   I am particularly interested in how intelligent systems can coordinate supply, demand, logistics, and pricing dynamically in real-time environments.
 
 ---
+
 ### Research Interests
 - Intelligent infrastructure
 - Large-scale distributed systems
@@ -32,6 +34,14 @@ I am focused on building systems that operate reliably at scale, optimize decisi
 - Optimization under constraints
 - Climate-tech system modeling
   
+---
+
+### Active Development
+- Architecting an AI-driven real-time marketplace engine
+- Designing scalable system infrastructure for low-latency decision systems
+- Building simulation models for adaptive pricing and allocation
+- Publishing technical system design notes and research-oriented breakdowns
+
 ---
 
 ### Contact
