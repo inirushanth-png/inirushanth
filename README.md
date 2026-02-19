@@ -1,6 +1,6 @@
 # inirushanth
 # Hi, I'm nirushanth   
-**CS × EE × AI Learner 
+**CS × EE × AI Learner** 
 
 I’m a Physical Science student building a strong foundation in  
 **Computer Science, Electrical Engineering, and Artificial Intelligence**.  
