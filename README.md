@@ -42,6 +42,6 @@ at the intersection of **AI, software engineering, and real-world infrastructure
 ---
 
 ### Contact
-- i.nirushanth@gmail.com
 Feel free to reach out for collaboration or learning:  
-**→ Add LinkedIn link here**  
+**https://www.linkedin.com/in/niru-shanth-a819873b1/**
+**i.nirushanth@gmail.com**
