@@ -1,5 +1,5 @@
 # inirushanth
-# Hi, I'm Nirushanth   
+# Hi, I'm Niru Shanth   
 **CS × EE × AI Learner** 
 
 I’m a Physical Science student building a strong foundation in  
