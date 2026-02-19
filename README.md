@@ -1,22 +1,39 @@
-# inirushanth
-# Hi, I'm Niru Shanth   
-**CS × EE × AI Learner** 
+# Niru Shanth   
+**AI Systems & Scalable Infrastructure** 
 
 ---
 
-### Long-Term Direction
-My interests span intelligent systems, scalable automation, engineering, and business that solves real problems.
-Designing and building **scale intelligent systems**  
+### Mission
+Designing intelligent, scalable systems that integrate AI, distributed infrastructure, and economic networks — beginning with emerging markets and expanding globally.
+
+I am focused on building systems that operate reliably at scale, optimize decision-making under real-world constraints, and create long-term structural impact.  
 
 ---
 
-### Interests
+### Current Focus
 - Research
-- Engineering + creativity  
-- Physics, global systems, economics, and technology
+- AI-powered marketplace infrastructure
+- Distributed backend architecture
+- Applied machine learning for economic networks
 
+---
+### Technical Direction
+- Machine Learning & Statistical Modeling
+- Systems Design & Backend Infrastructure
+- Distributed Architectures
+- Engineering + Economic Systems Thinking
+  I am particularly interested in how intelligent systems can coordinate supply, demand, logistics, and pricing dynamically in real-time environments.
+
+---
+### Research Interests
+- Intelligent infrastructure
+- Large-scale distributed systems
+- Applied AI in real-world markets
+- Optimization under constraints
+- Climate-tech system modeling
+  
 ---
 
 ### Contact
-Feel free to reach out for collaboration or learning:  
-**www.linkedin.com/in/niru-shanth-a819873b1**
+LinkedIn: www.linkedin.com/in/niru-shanth-a819873b1
+Open to collaboration on research-driven engineering problems, scalable AI systems, and infrastructure design.
