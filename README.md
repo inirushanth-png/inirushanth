@@ -4,15 +4,12 @@
 ---
 
 ### Mission
-Designing intelligent, scalable systems that integrate AI, distributed infrastructure, and economic networks — beginning with emerging markets and expanding globally.
-
 I am focused on building systems that operate reliably at scale, optimize decision-making under real-world constraints, and create long-term structural impact.  
 
 ---
 
 ### Current Focus
 - Research
-- AI-powered marketplace infrastructure
 - Distributed backend architecture
 - Applied machine learning for economic networks
 
@@ -37,7 +34,6 @@ I am focused on building systems that operate reliably at scale, optimize decisi
 ---
 
 ### Active Development
-- Architecting an AI-driven real-time marketplace engine
 - Designing scalable system infrastructure for low-latency decision systems
 - Building simulation models for adaptive pricing and allocation
 - Publishing technical system design notes and research-oriented breakdowns
